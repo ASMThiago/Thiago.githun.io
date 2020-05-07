@@ -1,0 +1,19 @@
+<style>
+h1 {
+    font-family: fantasy, sans-serif;
+    color: rgb(51, 64, 48)
+}
+.descriçao {
+    font-family: Verdana, sans-serif;
+}
+body {
+    background-color: rgb(154, 191, 145);
+}
+.pesado {
+    font-weight: 700;
+}
+.borda {
+    background-color: rgb(51, 64, 48);
+    color: white
+}
+</style>
